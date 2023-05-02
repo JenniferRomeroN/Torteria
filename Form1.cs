@@ -12,7 +12,7 @@ namespace Torteria
 {
     public partial class Form1 : Form
     {
-
+        //A la majo le apesta la cola
         String[,] tortas = new string[4, 2];
         String[,] refrescos = new string[4, 2];
         String[,] postres = new string[4, 2];
